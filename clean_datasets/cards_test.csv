@@ -1,4 +1,4 @@
-card_id,disp_id,type,card_date
+card_id,disp_id,card_type,card_date
 813,5873,-10,1996-10-28
 1014,9452,0,1996-11-02
 408,2560,0,1996-12-10
